@@ -1,0 +1,21 @@
+{
+  "item.kobemod.sapphire": "Sapphire",
+
+  "item.kobemod.raw_sapphire": "Raw Sapphire",
+
+  "item.kobemod.strawberry": "Strawberry",
+  "item.kobemod.blazing_crystal": "Blazing Crystal",
+
+  "item.kobemod.metal_detector": "Metal Detector",
+
+  "block.kobemod.sapphire_block": "Block Of Sapphire",
+
+  "block.kobemod.sapphire_ore": "Sapphire Ore",
+  "block.kobemod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+
+  "block.kobemod.sound_block": "Sound Block",
+
+  "tooltip.kobemod.metal_detector.tooltip": "Finds Precious ores underground!",
+
+  "creativetab.kobe_tab": "Custom Tab"
+}
